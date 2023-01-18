@@ -11,4 +11,6 @@ ChatGPT Cli by using Go Language
 
 ###Runing
 
+\*You need .env file and api key before run\*
+
 `$ go run main.go`
